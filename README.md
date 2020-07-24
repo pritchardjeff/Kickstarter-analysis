@@ -94,5 +94,5 @@ Does not provide a full picture about the backers of the campaigns. It would be 
 With that data, we could gain more insight into who the backers are and into the specific geographic region (City/State) we are trying to launch a play for. 
 
 - What are some other possible tables and/or graphs that we could create?
-We could add a column to the original data set that takes the difference between Date Created and Date Ended and determine if there is a relationship between the success of a campaign and its duration.
+-We could add a column to the original data set that takes the difference between Date Created and Date Ended and determine if there is a relationship between the success of a campaign and its duration.
 
