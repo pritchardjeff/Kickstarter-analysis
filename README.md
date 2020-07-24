@@ -69,13 +69,10 @@ After the table is set up, add an additional column with a vlookup.
 
 The fields should be populated as followed:
 
--Lookup_value = Goal Amount
-
--Table Array = Reference table added above
-
--Col_Index = 2
-
--Range Lookup = 1
+- Lookup_value = Goal Amount
+- Table Array = Reference table added above
+- Col_Index = 2
+- Range Lookup = 1
 
 
 Note - Range lookup with 1 sets the formula up to use an approximate match instead of an exact match, which returns a value that is less than the value you are interested in.
